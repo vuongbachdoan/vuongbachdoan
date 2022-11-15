@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Hello%2C+I'm+Vuong;Fullstack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fragment&weight=900&size=30&duration=4000&pause=500&width=435&lines=Hello%2C+I'm+Vuong;Fullstack+developer)](https://git.io/typing-svg)
 <br />
 
 <h3 align="left">Connect with me:</h3>
