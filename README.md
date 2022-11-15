@@ -3,7 +3,7 @@
   <img align="left" alt="instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="[https://www.facebook.com/vuong.bachdoan.940/]">
-  <img align="left" alt="facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="facebook" width="22px" src="http://i.imgur.com/fep1WsG.png" />
 </a>
 <a href="https://www.linkedin.com/in/vuongbachdoan/">
   <img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
