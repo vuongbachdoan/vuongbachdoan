@@ -17,7 +17,7 @@ I'm [BachDoanVuong](https://www.facebook.com/vuong.bachdoan.940/), a passionate 
   
 
 # Open to job:
-- 💼 any freelance work? do reach, [Email:](mailto:vuongbachdoanÂgmail.com)
+- 💼 any freelance work? do reach, [Email: vuongbachoan@gmail.com](mailto:vuongbachdoan@gmail.com)
 - 💬 ask me about anything, i am happy to help;
   
   
