@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fragment&weight=900&size=30&duration=4000&pause=500&width=435&lines=Hello%2C+I'm+Vuong;Fullstack+developer)](https://git.io/typing-svg)
-
-<br />
 ✅ You can also find my interesting HTML/CSS component <a href="https://github.com/FU-Dever">https://github.com/FU-Dever</a> <strong>or</strong> <a href="https://github.com/vbachdoan">https://github.com/vbachdoan</a>   
-
+<br />
 
 # Connect with me:
 <p align="left">
@@ -15,9 +13,9 @@
 
 I'm [BachDoanVuong](https://www.facebook.com/vuong.bachdoan.940/), a passionate self-learning full stack web developer.
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<br />
   
-  
-  
+
 # Job
 - 💼 any freelance work? do reach, [Email:](mailto:vuongbachdoanÂgmail.com)
 - 💬 ask me about anything, i am happy to help;
@@ -38,9 +36,8 @@ I'm [BachDoanVuong](https://www.facebook.com/vuong.bachdoan.940/), a passionate 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br />
-
-  
-  
+<br />
+    
 # Other
   
 ### My achievements
