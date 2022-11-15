@@ -1,16 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Hello%2C+I'm+Vuong;Fullstack+developer)](https://git.io/typing-svg)
 <br />
 
-<a href="https://www.instagram.com/_doan.vuong_/">
-  <img align="left" alt="instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="[https://www.facebook.com/vuong.bachdoan.940/]">
-  <img align="left" alt="facebook" width="22px" src="http://i.imgur.com/fep1WsG.png" />
-</a>
-<a href="https://www.linkedin.com/in/vuongbachdoan/">
-  <img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.facebook.com/vuong.bachdoan.940/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebookk.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vuongbachdoan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_doan.vuong_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 ![](https://visitor-badge.glitch.me/badge?page_id=vuongbachdoan.vuongbachdoan)
 
 <br />
