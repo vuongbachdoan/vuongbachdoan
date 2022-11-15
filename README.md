@@ -1,4 +1,4 @@
-# hello!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Hello%2C+I'm+Vuong;Fullstack+developer)](https://git.io/typing-svg)
 <a href="https://www.instagram.com/_doan.vuong_/">
   <img align="left" alt="instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
