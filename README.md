@@ -12,7 +12,6 @@
 
 
 I'm [BachDoanVuong](https://www.facebook.com/vuong.bachdoan.940/), a passionate self-learning full stack web developer.
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <br />
   
 
