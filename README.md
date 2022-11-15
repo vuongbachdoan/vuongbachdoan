@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fragment&weight=900&size=30&duration=4000&pause=500&width=435&lines=Hello%2C+I'm+Vuong;Fullstack+developer)](https://git.io/typing-svg)
 <br />
 
-✅  ### You can also find my interesting HTML/CSS component <a href="https://github.com/FU-Dever">https://github.com/FU-Dever</a> <strong>or</strong> <a href="https://github.com/vbachdoan">https://github.com/vbachdoan</a>   
+✅ You can also find my interesting HTML/CSS component <a href="https://github.com/FU-Dever">https://github.com/FU-Dever</a> <strong>or</strong> <a href="https://github.com/vbachdoan">https://github.com/vbachdoan</a>   
 
 # Connect with me:
 <p align="left">
@@ -38,7 +38,7 @@ I'm [BachDoanVuong](https://www.facebook.com/vuong.bachdoan.940/), a passionate 
 
   
 # Other
-🏆  ### My achievements
-  - Second prize FPTU-HACKATHON 2022
-  - Potential prize ResFes 2022
-  - Start-up price ResConnect 2021        
+### My achievements
+  - 🏆  Second prize FPTU-HACKATHON 2022
+  - 🏆  Potential prize ResFes 2022
+  - 🏆  Start-up price ResConnect 2021        
