@@ -8,7 +8,8 @@
 <a href="https://www.linkedin.com/in/vuongbachdoan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_doan.vuong_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <br/>
-### By phone: 0364163671
+  
+*** By phone: 0364163671
 <br />
 
 
