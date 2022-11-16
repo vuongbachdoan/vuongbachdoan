@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fragment&weight=900&size=30&duration=4000&pause=500&width=435&lines=Hello%2C+I'm+Vuong;Fullstack+developer)](https://git.io/typing-svg)
 <p>✅ You can also find my interesting HTML/CSS components at <a href="https://github.com/FU-Dever">https://github.com/FU-Dever</a> <strong>or</strong> <a href="https://github.com/vbachdoan">https://github.com/vbachdoan</a>   </p>
 
-# Connect with me:
+# Contact with me:
 ![](https://visitor-badge.glitch.me/badge?page_id=vuongbachdoan.vuongbachdoan)
 <p align="left">
 <a href="https://www.facebook.com/vuong.bachdoan.940/" target="blank"><img align="center" src="http://i.imgur.com/fep1WsG.png" alt="" height="30"/></a>
