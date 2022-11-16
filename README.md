@@ -12,7 +12,6 @@
 
 
 I'm [BachDoanVuong](https://www.facebook.com/vuong.bachdoan.940/), a passionate self-learning full stack web developer.
-<br />
   
 
 # Open to job:
