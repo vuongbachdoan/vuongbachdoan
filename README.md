@@ -14,7 +14,7 @@
 
 # Open to job:
 - 💼 any freelance work? do reach, [Email: vuongbachoan@gmail.com](mailto:vuongbachdoan@gmail.com)
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, i am happy to help
   
   
 # Languages and tools:
