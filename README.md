@@ -35,6 +35,6 @@
 
   
 # My achievements:
-  - 🏆  Second prize FPTU-HACKATHON 2022
-  - 🏆  Potential prize ResFes 2022
-  - 🏆  Start-up price ResConnect 2021        
+  - 🏆  Second prize Blockchain Hackathon 2022
+  - 🏆  Potential prize Research Festival 2022
+  - 🏆  Start-up price Research Connect 2021        
