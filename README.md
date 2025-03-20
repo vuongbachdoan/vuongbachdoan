@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fragment&weight=900&size=30&duration=4000&pause=500&width=435&lines=Hello%2C+I'm+Vuong;Cloud+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fragment&weight=900&size=30&duration=4000&pause=500&width=435&lines=Hello%2C+I'm+Vuong;AWS+Community+Builders)](https://git.io/typing-svg)
 <p>✅ You can also find my interesting HTML/CSS components at <a href="https://github.com/FU-Dever">https://github.com/FU-Dever</a> <strong>or</strong> <a href="https://github.com/vbachdoan">https://github.com/vbachdoan</a>   </p>
 
 # Contact with me:
