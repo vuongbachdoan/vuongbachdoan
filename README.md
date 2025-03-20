@@ -1,40 +1,56 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fragment&weight=900&size=30&duration=4000&pause=500&width=435&lines=Hello%2C+I'm+Vuong;AWS+Community+Builders)](https://git.io/typing-svg)
-<p>✅ You can also find my interesting HTML/CSS components at <a href="https://github.com/FU-Dever">https://github.com/FU-Dever</a> <strong>or</strong> <a href="https://github.com/vbachdoan">https://github.com/vbachdoan</a>   </p>
+# Hi, I'm Vuong! 👋
 
-# Contact with me:
-![](https://visitor-badge.glitch.me/badge?page_id=vuongbachdoan.vuongbachdoan)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fragment&weight=900&size=30&duration=4000&pause=500&width=600&lines=AWS+Community+Builder;Cloud+Engineer;AWS+%7C+GCP+Certified;Security+%7C+DevOps+%7C+GenAI)](https://git.io/typing-svg)
+
+
+🚀 **Cloud Engineer | AWS & GCP Certified | DevOps & Security Enthusiast**  
+
+✅ AWS Community Builder
+
+✅ AWS Certified Security Specialty, Developer Associate, Solutions Architect Associate 
+
+✅ GCP Associate Cloud Engineer, GCP Professional Cloud Architect  
+
+
+## 🏆 Certifications
 <p align="left">
-<a href="https://www.facebook.com/vuong.bachdoan.940/" target="blank"><img align="center" src="http://i.imgur.com/fep1WsG.png" alt="" height="30"/></a>
-<a href="https://www.linkedin.com/in/vuongbachdoan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_doan.vuong_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<br />
- 
- ### By phone: 0364163671
+  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Security-Specialty_badge.75ad1e505c0241bdb321f4c4d9abc51c0109c54f.png" height="80">
+  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png" height="80">
+  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" height="80">
+  <img src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" height="80">
+  <img src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" height="80">
+</p>
 
 
-# Open to job:
-- 💼 any freelance work? do reach, [Email: vuongbachdoan@gmail.com](mailto:vuongbachdoan@gmail.com)
-- 💬 ask me about anything, i am happy to help
-  
-  
-# Languages and tools:
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+## 📬 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/vuongbd2007/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:vuongbachdoan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/vbachdoan">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" alt="GitHub">
+  </a>
+</p>
 
-  
-# My achievements:
-  - 🏆  Second prize Blockchain Hackathon 2022
-  - 🏆  Potential prize Research Festival 2022
-  - 🏆  Start-up price Research Connect 2021        
+![](https://visitor-badge.glitch.me/badge?page_id=vuongbachdoan.vuongbachdoan)
+
+
+## 🏆 Achievements
+
+🏅 **Third Prize** - Bosch Activator Scholarship 2024
+
+🏅 **Second Prize** - Blockchain Hackathon 2022
+
+🏅 **Potential Prize** - Research Festival 2022 
+
+🏅 **Start-up Prize** - Research Connect 2021  
+
+
+## 📊 GitHub Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vbachdoan&theme=tokyonight) 
+
+
+⭐ **Check out my repositories and contributions!**  
