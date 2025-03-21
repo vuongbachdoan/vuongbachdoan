@@ -50,7 +50,7 @@
 
 
 ## 📊 GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vbachdoan&theme=tokyonight) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vuongbachdoan&hide_border=true)](https://git.io/streak-stats)
 
 
 ⭐ **Check out my repositories and contributions!**  
