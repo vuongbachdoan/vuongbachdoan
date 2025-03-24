@@ -18,7 +18,7 @@
   <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png" height="80">
   <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" height="80">
   <img src="https://images.credly.com/size/340x340/images/4ea0ec5c-6258-4c26-9282-6ed233c0c7ac/image.png" height="80">
-  <img src="https://images.credly.com/size/340x340/images/4ea0ec5c-6258-4c26-9282-6ed233c0c7ac/image.png" height="80">
+  <img src="https://images.credly.com/size/340x340/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" height="80">
   <img src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" height="80">
 </p>
 
