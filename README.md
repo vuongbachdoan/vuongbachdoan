@@ -14,6 +14,8 @@
 
 ## 🏆 Certifications
 <p align="left">
+  
+  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solution-Architect-Professional_badge.75ad1e505c0241bdb321f4c4d9abc51c0109c54f.png" height="80">
   <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Security-Specialty_badge.75ad1e505c0241bdb321f4c4d9abc51c0109c54f.png" height="80">
   <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png" height="80">
   <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" height="80">
