@@ -7,7 +7,7 @@
 
 ✅ AWS Community Builder
 
-✅ AWS Certified Security Specialty, Developer Associate, Solutions Architect Associate 
+✅ AWS Certified Solution Architect Professional, Security Specialty, Developer Associate, Solutions Architect Associate 
 
 ✅ GCP Professional Cloud Security Engineer, GCP Professional Cloud Architect, GCP Associate Cloud Engineer
 
